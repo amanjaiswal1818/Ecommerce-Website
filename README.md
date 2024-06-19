@@ -11,10 +11,6 @@ A fully functional e-commerce website built with HTML, CSS, and JavaScript. This
 - Checkout process with order summary
 - Responsive design suitable for various devices
 
-
-### Usage
-Explain how to use the app, including the different functionalities.
-```markdown
 ## Usage
 - **Browse Products**: Navigate through the product listings, use the search bar to find specific items, and apply filters to narrow down your search.
 - **Product Details**: Click on a product to view more details, including images, descriptions, and prices.
@@ -39,3 +35,6 @@ Contributions are welcome! Please follow these steps:
 
 ## Acknowledgments
 - Inspiration from various online tutorials and documentation.
+
+## Preview
+![preview img](assets/images/products/E-commerce-website-preview.png.png)
